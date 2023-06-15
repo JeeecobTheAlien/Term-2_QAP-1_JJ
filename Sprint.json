@@ -1,0 +1,37 @@
+[
+    {
+        "name" : "Lamborghini Aventador SVJ",
+        "status" : "unknown",
+        "HorsePower" : 800
+    },
+
+    {
+        "name" : "Bugatti Chiron",
+        "status" : "unknown",
+        "HorsePower" : 1500
+    },
+
+    {
+        "name" : "Ford GT40 Mk.II",
+        "status" : "rare",
+        "HorsePower" : 485
+    },
+
+    {
+        "name" : "Nissan R34 GTR",
+        "status" : "unknown",
+        "HorsePower" : 400
+    },
+
+    {
+        "name" : "Mercedes Benz SL300 gullwing",
+        "status" : "rare",
+        "HorsePower" : 215
+    },
+
+    {
+        "name" : "HTT Plethore LC-750",
+        "status" : "rare",
+        "HorsePower" : 750
+    }
+]
